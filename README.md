@@ -4,7 +4,7 @@
 Autonomous Security Robot
 
 ## Description
-Developed based on the TurtleBot3 platform and the ROS2 operating system.
+Developed based on the TurtleBot3 platform and the ROS2 operating system./
 There are a few rooms in the research premises. The robot starts from its parking area, autonomously travels to each room and checks if there are any intruders (People) inside the rooms. After patrolling all rooms, the robot should return to the parking area.
 
 ## 🎥 Demo Video
