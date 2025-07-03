@@ -25,13 +25,3 @@ There are a few rooms in the research premises. The robot starts from its parkin
 - 👁 simulation：Simulation testing was conducted in Gazebo before performing tests on the actual robot.
 ![微信图片_20250702192834](https://github.com/user-attachments/assets/04d49008-8404-4c20-8f29-c05fa48f67ae)
 ![微信图片_20250702192842](https://github.com/user-attachments/assets/3ced7a8b-5d30-47b0-a6a0-be4fdc19485f)
-
-
----
-
-## Installation
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-![code](https://github.com/user-attachments/assets/7f220675-f2ef-4fab-800b-e9f151dc650a)
