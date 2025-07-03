@@ -1,24 +1,12 @@
-https://youtu.be/_jqhGAFgSTs
-![mapping](https://github.com/user-attachments/assets/64c05cdb-4580-4ca1-91cf-7bd25a37b586)
-![code](https://github.com/user-attachments/assets/716d8fe4-d51d-4182-ba43-400ea80656d9)
-![微信图片_20250702192834](https://github.com/user-attachments/assets/e2cd9e59-6759-442e-b522-ba76ec38eb12)
-![微信图片_20250702192842](https://github.com/user-attachments/assets/eb0d498f-d4f6-4aae-aab2-a6da8fff14d6)
 # Project Title
 Autonomous Security Robot
-
-
 ## Description
-
-A brief introduction to your project.  
-This project aims to XXX and provides XXX features.
-
----
+Developed based on the TurtleBot3 platform and the ROS2 operating system.
+There are a few rooms in the research premises. The robot starts from its parking area, autonomously travels to each room and checks if there are any intruders (People) inside the rooms. After patrolling all rooms, the robot should return to the parking area.
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/your-youtube-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-youtube-id)
-<!-- Replace 'your-youtube-id' with the actual YouTube video ID -->
-
+[![Watch the demo]([https://img.youtube.com/vi/your-youtube-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-youtube-id](https://youtu.be/_jqhGAFgSTs))
 ---
 
 ## Features
