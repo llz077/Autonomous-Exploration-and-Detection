@@ -1,8 +1,8 @@
 
 # Project Title
-
 Autonomous Security Robot
-![robot](https://github.com/user-attachments/assets/8325ed91-719b-41fc-a0fe-f41dc525adf6)
+
+![robot](https://github.com/user-attachments/assets/52d08cdb-a150-47b5-8dad-88836fb09599)
 
 ## Description
 Developed based on the TurtleBot3 platform and the ROS2 operating system.
